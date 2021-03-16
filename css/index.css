@@ -1,0 +1,13 @@
+#menu ul{
+    display: inline;
+    position: fixed;
+}
+
+#menu ul li {
+    display: inline;
+
+}
+
+#corpo section {
+    padding-top: 50px;
+}
